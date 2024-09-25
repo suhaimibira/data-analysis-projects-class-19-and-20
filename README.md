@@ -9,5 +9,3 @@ The class number ties to this chapter in the reading:
 * Class 20 - [Chapter 23 - Database With Python and Pandas](https://education.launchcode.org/data-analysis-curriculum/python-pandas-databases/index.html)
 
 **Students, please use this repository for DA classes 18-20 of the course**
-
-**Tableau exercises and studios will be stored in Tableau public, so you don't need to worry about a git repo for thise**
